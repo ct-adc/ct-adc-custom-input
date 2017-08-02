@@ -55,7 +55,7 @@
 
             // 限制数值大小
             restrictValue(num) {
-                if (num < this.min) {
+                if (num === '' || num < this.min) {
                     return this.min;
                 }
 

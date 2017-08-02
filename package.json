@@ -1,6 +1,6 @@
 {
   "name": "ct-adc-custom-input",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Vue2.0 Component for limiting user input",
   "main": "src/component/",
   "scripts": {
