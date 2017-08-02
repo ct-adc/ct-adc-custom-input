@@ -1,7 +1,7 @@
 <template>
     <input :value="value"
            @input="updateValue($event.target.value)"
-           @change="handleChange($event.target.value)"
+           @blur="handleChange($event.target.value)"
            v-model="val"
            ref="input">
 </template>
@@ -55,11 +55,11 @@
 
             // 限制数值大小
             restrictValue(num) {
-                if (num === '' || num < this.min) {
+                if (num === '' || parseFloat(num) < this.min) {
                     return this.min;
                 }
 
-                if (num > this.max) {
+                if (parseFloat(num) > this.max) {
                     return this.max;
                 }
 
