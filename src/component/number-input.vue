@@ -48,7 +48,7 @@
         },
         methods: {
             formatValue(val) {
-                const formattedValue = val.toString().replace(/^[0\D]*|\D*/g, '');
+                const formattedValue = val.toString().replace(/^0+(?=\d)|\D*/g, '');
 
                 return formattedValue;
             },
