@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ct-adc/vue-custom-input.git"
+    "url": "git+https://github.com/ct-adc/ct-adc-custom-input.git"
   },
   "keywords": [
     "vue",
@@ -21,9 +21,9 @@
   "author": "Live",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ct-adc/vue-custom-input/issues"
+    "url": "https://github.com/ct-adc/ct-adc-custom-inpu/issues"
   },
-  "homepage": "https://github.com/ct-adc/vue-custom-input#readme",
+  "homepage": "https://github.com/ct-adc/ct-adc-custom-inpu#readme",
   "dependencies": {
     "vue": "^2.2.1"
   },
