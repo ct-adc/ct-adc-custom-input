@@ -4,12 +4,14 @@
 
 ## 目录
 
+- [组件](#组件)
 - [Demo Build Setup](#demo-build-setup)
 - [在线演示](#在线演示)
-- [代码示例](#代码示例)
-- [事件](#事件)
-- [杂记](#杂记)
 
+## 组件
+
+- [number-input](./src/component/number-input/)
+- phone-input
 
 ## Demo Build Setup
 
