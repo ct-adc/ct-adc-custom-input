@@ -1,6 +1,6 @@
 <template>
     <div class="container-fluid" id="demo">
-        <div class="col-md-4 col-md-offset-3 mt20">
+        <div class="col-md-4 col-md-offset-4 mt20">
 
             <div class="row">
                 <div class="col-sm-6">
