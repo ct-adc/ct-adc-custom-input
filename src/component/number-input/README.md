@@ -8,7 +8,7 @@
 
 ## 在线演示
 
-在线演示: [链接](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-custom-input/blob/master/view/number-input-demo.html).
+请点击[链接地址](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-custom-input/blob/master/view/number-input-demo.html)
 
 ![demo.gif](../../img/number-input-demo.gif)
 
@@ -26,7 +26,7 @@ v-model[.number] | [vue] |  | 是 | 输入框的最大值
 
 #### JavaScript
 ```javascript
-import { NumberInput } from 'cy-adc-custom-input.vue';
+import { NumberInput } from 'ct-adc-custom-input.vue';
 
 export default {
     components: {
