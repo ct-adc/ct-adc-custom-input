@@ -1,17 +1,17 @@
-# ct-adc-checkbox-group
+# ct-adc-custom-input
 
-> 基于 Vue2.0 的复选框组件
+> 基于 Vue2.0 的输入框定制化
 
 ## 目录
 
-- [Build Setup](#build-setup)
+- [Demo Build Setup](#demo-build-setup)
 - [在线演示](#在线演示)
 - [代码示例](#代码示例)
 - [事件](#事件)
 - [杂记](#杂记)
 
 
-## Build Setup
+## Demo Build Setup
 
 ``` bash
 # install dependencies
