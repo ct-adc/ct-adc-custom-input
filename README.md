@@ -32,3 +32,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ## 在线演示
 
 - [number-input](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-custom-input/blob/master/view/number-input-demo.html) ![demo.gif](src/img/number-input-demo.gif)
+- phone-input
