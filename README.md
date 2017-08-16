@@ -31,6 +31,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## 在线演示
 
-在线演示: [go to live demo](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-custom-input/blob/master/view/demo.html).
+在线演示: [总目录](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-custom-input/blob/master/index.html).
 
-![demo.gif](./src/img/demo.gif)
+- number-input ![demo.gif](src/img/number-input-demo.gif)

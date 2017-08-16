@@ -8,10 +8,9 @@
 
 ## 在线演示
 
-在线演示: [总目录](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-custom-input/blob/master/index.html).
+在线演示: [链接](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-custom-input/blob/master/view/demo.html).
 
-- number-input
-  ![demo.gif](./src/img/demo.gif)
+![demo.gif](./src/img/demo.gif)
 
 ## 参数说明
 
