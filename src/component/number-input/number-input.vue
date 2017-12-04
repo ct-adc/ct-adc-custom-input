@@ -1,6 +1,5 @@
 <template>
-    <input :value="value"
-           @input="updateValue($event.target.value)"
+    <input @input="updateValue($event.target.value)"
            @blur="handleChange($event.target.value)"
            v-model="val"
            ref="input">
@@ -42,9 +41,11 @@
         data() {
             return {
                 val: '',
-
                 pattern: ''
             };
+        },
+        created(){
+            this.updateValue(this.val);
         },
         methods: {
             formatValue(val) {
